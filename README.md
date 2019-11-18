@@ -17,3 +17,4 @@ Select An theme below and copy link to clipboad, open vscode setting and set "ma
 ## Themes
 
 - [white theme](https://privaterookie.github.io/vsc-markdown-css/white.css)
+- [cmd markdown theme](https://privaterookie.github.io/vsc-markdown-css/cmdmarkdown.css)

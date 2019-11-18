@@ -1,0 +1,53 @@
+/* 来自 https://github.com/morgengc/CmdMarkdownStyle/blob/master/style.css */
+
+h1 { 
+    color: #118cd3; 
+}
+
+h2 {
+    display: block;
+    color: #15AE67;
+    padding-left: 5px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin: 1em 0 .6em 0;
+    font-weight: normal;
+    position: relative;
+    border-bottom: 1px solid #15AE67;
+}
+
+h3 {
+    color: #795548;
+    margin: 1em 0 .6em 0;
+    padding: 0 0 0 20px;
+    font-size: 1.5rem;
+    position: relative;
+    line-height: 30px;
+}
+
+h3:after
+{
+    position: absolute;
+    content: "";
+    left: 1px;
+    top: 0;
+    bottom: 0;
+    width: 5px;
+    background: #9AC59A;
+}
+
+h4 {
+    color: #795548;
+    margin: 0 0 .6em 0;
+    font-size: 1.4rem;
+    position: relative;
+    line-height: 28px;
+    text-decoration:overline;
+    border-bottom: 2px solid #795548;
+    display: inline-block;
+}
+
+code {
+    font-family: "Fira Code", Consolas;
+    font-size: 18px;
+}
